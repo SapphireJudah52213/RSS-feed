@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+  <title>My Apple Shortcuts Feed</title>
+  <link>https://example.com/shortcuts</link>
+  <description>Automations and Apple Shortcuts directly to your devices.</description>
+  <language>en-us</language>
+  <lastBuildDate>Tue, 29 Sep 2026 14:30:00 EST</lastBuildDate>
+  
+  <item>
+    <title>Daily Briefing Shortcut</title>
+    <link>https://www.icloud.com/shortcuts/0c58a69fc4804f2b9f6f942ae6b161eb</link>
+    <description>A Siri AI-like shortcut, run through groq</description>
+    <guid>https://www.icloud.com/shortcuts/0c58a69fc4804f2b9f6f942ae6b161eb</guid>
+    <pubDate>Tue, 29 Sep 2026 12:00:00 EST</pubDate>
+  </item>
+  
+</channel>
+</rss>
